@@ -1,0 +1,1 @@
+# kumari-global.css
